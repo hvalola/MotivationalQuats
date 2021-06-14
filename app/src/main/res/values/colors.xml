@@ -323,6 +323,9 @@
     <color name="white">#FFFFFF</color>
     <!-- White -->
 
+    <color name="colorPrimary">#464649</color>
+    <color name="colorPrimaryDark">#515153</color>
+    <color name="colorAccent">#FF4081</color>
 
     <array name="mycolors">
         <item>@color/amber_50</item>

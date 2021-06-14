@@ -1,10 +1,12 @@
-package com.pubudu.motivationalquats
+package com.pubudu.motivationalquats.presentation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.pubudu.motivationalquats.R
+import com.pubudu.motivationalquats.framework.data.QuoteData
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -34,6 +36,8 @@ class DisplayFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
+        //var test = QuoteData()
+        //test.getQuates()
         return inflater.inflate(R.layout.fragment_display, container, false)
     }
 

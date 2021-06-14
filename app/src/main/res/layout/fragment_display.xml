@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/motivation_bg"
-    tools:context=".DisplayFragment">
+    tools:context=".presentation.DisplayFragment">
 
     <ImageView
         android:id="@+id/lillyImage"
