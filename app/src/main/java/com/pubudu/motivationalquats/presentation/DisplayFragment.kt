@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.pubudu.motivationalquats.R
-import com.pubudu.motivationalquats.framework.data.QuoteData
+
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -18,6 +18,7 @@ private const val ARG_PARAM2 = "param2"
  * Use the [DisplayFragment.newInstance] factory method to
  * create an instance of this fragment.
  */
+
 class DisplayFragment : Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
